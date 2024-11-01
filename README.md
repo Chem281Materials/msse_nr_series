@@ -17,6 +17,6 @@ Report your results at the end of this `README.md` file.
 
 In addition, plot the absolute values of the error for each method versus `N` on a $\log_{10}-\log_{10}$ scale.
 You are not required to write C++ code to create the plot; you may create it externally.
-Include the plot in this repository and briefly summarize your observations.
+Include the plot in this repository and explain the reasons for any differences in the results of the two methods.
 
 ## Answer
