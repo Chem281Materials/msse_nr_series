@@ -4,7 +4,7 @@ Perform all your calculations for this problem in single precision.
 
 Consider the infinite series:
 
-$$S = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \frac{1}{5} - \frac{1}{6}$$
+$$S = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \frac{1}{5} - \frac{1}{6} \cdots$$
 
 This series converges analytically to a value of $\ln{(2)}$.
 
